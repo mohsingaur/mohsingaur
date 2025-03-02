@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mohsingaur
-- 👀 I’m interested in web development and networking (Routing and Switching)
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate with someone who is working on web project and need a partner.
-- 📫 How to reach me? @ mohsin.sabir1@gmail.com
+- 👀 I’m Full stack developer having an experience of six years in IT industry as a DevOps for three years and now as a software engineer working on MEAN tech 🌱 stack.
+- 💞️ I would be grateful if some interested to have a collaboration with me for his project.
+- 📫 How to reach me? Just mail me @ mohsin.sabir1@gmail.com
 
 <!---
 mohsingaur/mohsingaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
